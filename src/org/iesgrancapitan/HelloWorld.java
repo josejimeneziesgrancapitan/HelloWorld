@@ -20,7 +20,7 @@ public static void main(String[] args) {
 	boolean isValid = true;
 	int probando=4, valor=3, contador=0;
 	
-	System.out.println("Release 2.0");
+	System.out.println("Release 2.1");
 	
 	
 	while (contador<3)
