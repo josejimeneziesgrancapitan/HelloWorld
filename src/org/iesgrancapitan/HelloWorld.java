@@ -20,7 +20,8 @@ public static void main(String[] args) {
 	boolean isValid = true;
 	int probando=4, valor=3, contador=0;
 	
-	System.out.println("Esto es una prueba - revert");
+	System.out.println("Release 2.0");
+	
 	
 	while (contador<3)
 	{
